@@ -7,4 +7,8 @@ Virgo, with a gentle and patient personality, pays attention to details in work,
 身高：181cm
 兴趣爱好：喜欢旅游，爱好美食；健身、游泳、跑步
 土象处女座，性格温和有耐心，做事注重细节、习惯提前规划，对待任务严谨踏实；善于倾听，遇事理性，只是计划被打乱时容易纠结。
-<img width="1279" height="1706" alt="background" src="https://github.com/user-attachments/assets/c5460bbf-f313-4575-8bda-b021abdf9ecd" />
+
+<figure class="cv-figure">
+  <img src="static/assets/img/cv-figure.png" alt="CV 附图">
+  <figcaption>生活照</figcaption>
+</figure>
