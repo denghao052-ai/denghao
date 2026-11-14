@@ -1,20 +1,17 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Macao Polytechnic University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>3255800788@qq.com</code>  
+
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**Macao Polytechnic University（澳门理工大学）**, Master of XX (XX – XX)  
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Hunan University of Finance and Economics**, Undergraduate <br>  
+• GPA:3.9/4.  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Public Administration, Machine learning,.
