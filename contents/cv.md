@@ -1,0 +1,1 @@
+Master's student in Public Administration at Macao Polytechnic University. Research focuses on public administration, machine learning, and carbon emission prediction. Member of the China Society for Technology and Economics.
