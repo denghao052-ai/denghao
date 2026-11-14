@@ -7,10 +7,9 @@ I'm currently pursuing a Master's degree in Macao Polytechnic University.
 
 
 #### Education  
-**Macao Polytechnic University（澳门理工大学）**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**Hunan University of Finance and Economics**, Undergraduate <br>  
+**Macao Polytechnic University（澳门理工大学）**, Master of Public Administration (2026 – 2028)  
+ 
+**Hunan University of Finance and Economics**, Undergraduate <br>  (2022 – 2026)
 • GPA:3.9/4.  
 
 #### Research Interests  
