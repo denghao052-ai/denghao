@@ -1,10 +1,7 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'awards', 'experience', 'publications'];
-
-
+const section_names = ['home', 'awards', 'experience', 'publications', 'cv'];
 window.addEventListener('DOMContentLoaded', event => {
-
     // Activate Bootstrap scrollspy on the main nav element
     const mainNav = document.body.querySelector('#mainNav');
     if (mainNav) {
@@ -13,7 +10,6 @@ window.addEventListener('DOMContentLoaded', event => {
             offset: 74,
         });
     };
-
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
     const responsiveNavItems = [].slice.call(
@@ -26,8 +22,6 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         });
     });
-
-
     // Yaml
     fetch(content_dir + config_file)
         .then(response => response.text())
@@ -39,12 +33,9 @@ window.addEventListener('DOMContentLoaded', event => {
                 } catch {
                     console.log("Unknown id and value: " + key + "," + yml[key].toString())
                 }
-
             })
         })
         .catch(error => console.log(error));
-
-
     // Marked
     marked.use({ mangle: false, headerIds: false })
     section_names.forEach((name, idx) => {
@@ -59,5 +50,4 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     })
-
-}); 
+});
